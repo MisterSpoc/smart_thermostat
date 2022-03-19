@@ -1,0 +1,13 @@
+Current-Temperature = 66.9
+Humidity = 35
+Condition = Clear
+Upper-Limit = 74
+Lower-Limit = 62
+Indoor-Ambient = 73.6
+SendData-Update = 10-16-2019 19:31:06
+GetData-Update = 10-16-2019 19:32:40
+Weather-Update = 10-16-2019 19:31:53
+Mode = Idle
+Outer-Tolerance = 0.5
+Inner-Tolerance = 0.5
+Logging-Mode = 0

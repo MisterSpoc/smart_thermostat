@@ -1,0 +1,553 @@
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 17:56:41
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 17:57:42
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 17:58:43
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 17:59:44
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:00:45
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:01:47
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:02:48
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:03:49
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:04:50
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:05:51
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:06:52
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:07:53
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:08:54
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:09:55
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:10:56
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:11:57
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:12:59
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:13:59
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:15:01
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:16:02
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:17:03
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:18:04
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:19:08
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:20:09
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:21:10
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:22:11
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:23:12
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:24:13
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:25:14
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:26:15
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:27:16
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:28:17
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:29:18
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:30:20
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 06:51 PM EDT / 2019.10.16 2251 UTC
+Wind: Variable at 6 MPH (5 KT):0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 69.1 F (20.6 C)
+Dew Point: 37.9 F (3.3 C)
+Relative Humidity: 31%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+ob: KATT 162251Z AUTO VRB05KT 10SM CLR 21/03 A3007 RMK AO2 SLP175 T02060033 
+cycle: 23
+Read at 10-16-2019 18:31:21
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 07:51 PM EDT / 2019.10.16 2351 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.9 F (19.4 C)
+Dew Point: 39.0 F (3.9 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KATT 162351Z AUTO 00000KT 10SM CLR 19/04 A3007 RMK AO2 SLP177 T01940039 10217 20194 55017 
+cycle: 0
+Read at 10-16-2019 19:16:34
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 07:51 PM EDT / 2019.10.16 2351 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.9 F (19.4 C)
+Dew Point: 39.0 F (3.9 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KATT 162351Z AUTO 00000KT 10SM CLR 19/04 A3007 RMK AO2 SLP177 T01940039 10217 20194 55017 
+cycle: 0
+Read at 10-16-2019 19:17:35
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 07:51 PM EDT / 2019.10.16 2351 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.9 F (19.4 C)
+Dew Point: 39.0 F (3.9 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KATT 162351Z AUTO 00000KT 10SM CLR 19/04 A3007 RMK AO2 SLP177 T01940039 10217 20194 55017 
+cycle: 0
+Read at 10-16-2019 19:23:35
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 07:51 PM EDT / 2019.10.16 2351 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.9 F (19.4 C)
+Dew Point: 39.0 F (3.9 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KATT 162351Z AUTO 00000KT 10SM CLR 19/04 A3007 RMK AO2 SLP177 T01940039 10217 20194 55017 
+cycle: 0
+Read at 10-16-2019 19:24:34
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 07:51 PM EDT / 2019.10.16 2351 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.9 F (19.4 C)
+Dew Point: 39.0 F (3.9 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KATT 162351Z AUTO 00000KT 10SM CLR 19/04 A3007 RMK AO2 SLP177 T01940039 10217 20194 55017 
+cycle: 0
+Read at 10-16-2019 19:29:05
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 07:51 PM EDT / 2019.10.16 2351 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.9 F (19.4 C)
+Dew Point: 39.0 F (3.9 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KATT 162351Z AUTO 00000KT 10SM CLR 19/04 A3007 RMK AO2 SLP177 T01940039 10217 20194 55017 
+cycle: 0
+Read at 10-16-2019 19:30:40
+
+CAMP MABRY/AUSTIN CITY ASOS, TX, United States (KATT) 30-19N 097-46W
+Oct 16, 2019 - 07:51 PM EDT / 2019.10.16 2351 UTC
+Wind: Calm:0
+Visibility: 10 mile(s):0
+Sky conditions: clear
+Temperature: 66.9 F (19.4 C)
+Dew Point: 39.0 F (3.9 C)
+Relative Humidity: 35%
+Pressure (altimeter): 30.07 in. Hg (1018 hPa)
+Pressure tendency: 0.05 inches (1.7 hPa) lower than three hours ago
+ob: KATT 162351Z AUTO 00000KT 10SM CLR 19/04 A3007 RMK AO2 SLP177 T01940039 10217 20194 55017 
+cycle: 0
+Read at 10-16-2019 19:31:53
+
