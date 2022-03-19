@@ -1,0 +1,10 @@
+Clock-out-pin = 19
+Data-out-pin = 16
+
+Clock-in-pin = 5
+Data-in-pin = 6
+
+Temp-pin = 5
+
+
+
