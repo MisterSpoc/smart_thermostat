@@ -1,0 +1,10 @@
+10-16-2019 18:26:18 [get_data] Took too long to receive, force exiting
+10-16-2019 18:26:20 [ear] Invalid code: ml
+10-16-2019 19:16:39 [get_data] Took too long to receive, force exiting
+10-16-2019 19:16:41 [ear] Invalid code: U
+10-16-2019 19:17:12 [get_data] Took too long to receive, force exiting
+10-16-2019 19:17:23 [get_data] Took too long to receive, force exiting
+10-16-2019 19:17:41 [get_data] Took too long to receive, force exiting
+10-16-2019 19:17:43 [ear] Invalid code: BlÌ¸Ø
+10-16-2019 19:17:59 [get_data] Took too long to receive, force exiting
+10-16-2019 19:18:01 [ear] Invalid code: jf
